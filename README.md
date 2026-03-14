@@ -1,16 +1,99 @@
-## Hi there 👋
+# 👋 Hi, I'm Mandip Pokhrel
 
-<!--
-**Mandipgit/Mandipgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc CSIT Student**
+💻 Passionate about **Software Development**
+✈️ Aspiring **Airline Pilot**
+🌏 Based in **Nepal**
 
-Here are some ideas to get you started:
+I enjoy building practical software solutions and continuously improving my skills in backend development, mobile applications, and system design. I like working on projects that solve real-world problems and help communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👁️ Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MandipPokhrel\&color=blue)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛑 Disaster Management Platform (Crowdsourced)
+
+**FastAPI · PostgreSQL · Flutter**
+
+A community-driven disaster reporting platform where citizens can submit incidents with GPS location and media. The system helps authorities verify reports, monitor disaster situations, and coordinate response efforts more effectively.
+
+---
+
+### 🏫 College Management System
+
+**Flutter · Firebase**
+
+A mobile application built to simplify academic management by organizing student records, faculty information, attendance tracking, notices, and academic updates with real-time synchronization.
+
+---
+
+### 📱 Flutter Mobile Applications
+
+Development of cross-platform mobile applications using Flutter with emphasis on performance, responsive layouts, and clean user interface design.
+
+---
+
+### ⚙️ Backend APIs with FastAPI
+
+Designing and building scalable RESTful APIs with authentication, request validation, and seamless integration with relational databases.
+
+---
+
+## 💻 Programming Languages
+
+* C
+* C++
+* Java
+* Python
+
+---
+
+## 🛠️ Technologies & Tools
+
+* HTML
+* CSS
+* Flutter
+* PostgreSQL
+* Git & GitHub
+* NetBeans
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandipPokhrel\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MandipPokhrel\&theme=github-compact)
+
+---
+
+## 📚 Currently Learning
+
+* Backend API development
+* Mobile app development with Flutter
+* Database design and optimization
+* Disaster management technologies
+
+---
+
+## 🎯 Goals
+
+* Build impactful **real-world software projects**
+* Improve **backend and system architecture skills**
+* Contribute to **open-source projects**
+* Continuously explore and learn new technologies
+
+---
+
+⭐ **Feel free to explore my repositories and projects. If you like my work, consider giving a star!**
+
