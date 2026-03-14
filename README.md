@@ -50,6 +50,7 @@ Designing and building scalable RESTful APIs with authentication, request valida
 * C++
 * Java
 * Python
+* Dart
 
 ---
 
