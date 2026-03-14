@@ -2,7 +2,6 @@
 
 🎓 **BSc CSIT Student**
 💻 Passionate about **Software Development**
-✈️ Aspiring **Airline Pilot**
 🌏 Based in **Nepal**
 
 I enjoy building practical software solutions and continuously improving my skills in backend development, mobile applications, and system design. I like working on projects that solve real-world problems and help communities.
