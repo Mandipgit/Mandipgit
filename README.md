@@ -59,7 +59,7 @@ Designing and building scalable RESTful APIs with authentication, request valida
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/QBasic_logo.png" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QBasic_logo.png/320px-QBasic_logo.png" height="40"/>
 
 </p>
 ---
