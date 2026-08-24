@@ -1,5 +1,11 @@
 # 💫 About Me:
-Full-Stack & Mobile App Developer<br>Focused on Python, FastAPI, Flutter, React Native, and AI/ML.<br>love building mobile apps, backend systems, and practical real-world application<br>Passionate about learning, experimenting, and turning ideas into working products,<br>exploring AI/ML, cloud technologies, and aviation-focused software.
+
+Full-Stack & Mobile App Developer <br>
+Focused on **Python, FastAPI, Flutter, React , and AI/ML**.<br>
+I love building **mobile apps, backend systems, and practical real-world applications**.<br>
+Passionate about **learning, experimenting, and turning ideas into working products**.<br>
+Currently exploring **AI/ML, cloud technologies, and aviation-focused software**.
+
 
 
 ## 🌐 Socials:
